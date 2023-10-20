@@ -1,5 +1,5 @@
 # 💫 About Me:
-# <br><br>Hello, I'm Bruno!<br><br>- 👨‍🎓 I am a student of Analysis and Systems Development.<br>- 💻 I've been passionate about technology since my early days and always seeking new challenges and knowledge.<br>- 🌱 I am constantly learning and honing my skills in the field of software development.<br>- 👾 My goal is to contribute to open-source projects and create creative solutions to the technological challenges of the world.<br><br>Feel free to get in touch with me, and let's collaborate on exciting projects!<br>
+#<br><br>Hello, I'm Bruno!<br><br>- 👨‍🎓 I am a student of Analysis and Systems Development.<br>- 💻 I've been passionate about technology since my early days and always seeking new challenges and knowledge.<br>- 🌱 I am constantly learning and honing my skills in the field of software development.<br>- 👾 My goal is to contribute to open-source projects and create creative solutions to the technological challenges of the world.<br><br>Feel free to get in touch with me, and let's collaborate on exciting projects!<br>
 
 
 ## 🌐 Socials:
