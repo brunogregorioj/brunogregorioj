@@ -34,14 +34,6 @@ I am a **Systems Analyst** with a solid foundation in software development, curr
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=6&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:bruno.kingster@gmail.com?subject=Contato&body=Olá+Bruno,+vi+seu+perfil+de+DevOps+no+GitHub!" target="_blank">
