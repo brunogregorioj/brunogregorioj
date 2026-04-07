@@ -24,12 +24,6 @@ I am a **Systems Analyst** with a solid foundation in software development, curr
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="35" alt="terraform" />
 </p>
 
-**Networking & Security**
-<p align="left">
-  <img src="https://cdn.simpleicons.org/wireshark/167EBE" height="35" alt="wireshark" />
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="35" alt="cisco" />
-  <img src="https://cdn.simpleicons.org/paloaltonetworks/00AADE" height="35" alt="security" />
-</p>
 
 **Automation & Languages**
 <p align="left">
